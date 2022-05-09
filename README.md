@@ -1,7 +1,13 @@
 # Image Rehearsal Therapy Dreamscapes
 
-Thank you for participating in the Image Rehearsal Therapy Dreamscapes study. In order to be considered, please fill out our intake form: https://docs.google.com/forms/d/1WyqCFPjo1SzixPh1G8MTdlNTe5PmUf745ma4dduf26I/edit?usp=sharing.
+![Using a personalized dreamscape.](irt_exp)
 
-When you have been approved, you will need to complete a dream journal every day for 20 days. After those 20 days, our team will create a personalized IRT Dreamscapes application for you to use. For 15 days you will rehearse your new dream ending in your personal dreamscape for 10 minutes every day and continue to complete your dream journal.
+Thanks for a great semester!
 
-Sweet dreams!
+[GitHub repo](https://github.com/csu-hci-projects/Image-Rehearsal-Therapy-Dreamscapes/tree/main)
+
+[IRT Dreamscapes Presentation](https://drive.google.com/file/d/1YHjyLXra3d8OLBcl1SXpAn5CuqnTNgd4/view?usp=sharing)
+
+[IRT Dreamscapes Demonstration](https://drive.google.com/file/d/1y1tkg6jC1IjSsk1Xvd3ywngkdzdK-L4L/view?usp=sharing)
+
+[IRT Dreamscapes Site](cs464t2.html)
